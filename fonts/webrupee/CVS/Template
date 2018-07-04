@@ -1,0 +1,6 @@
+BugID:
+
+CVS: Commit format  :-  "BugID:XXXX Commit message in same line"
+CVS: eg. -  BugID:4567 Test commit
+CVS: Please fill in the above fields with information about your checkin.
+CVS: Make sure that you know for certain what you are checking in.
